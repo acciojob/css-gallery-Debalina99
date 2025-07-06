@@ -5,7 +5,7 @@ img{
 	box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.3);
 	max-width:25vw;
 }
-main .cards{
+.cards{
 	display:flex;
 	flex-wrap:wrap;
 	align-items:flex-end
