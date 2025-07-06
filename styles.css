@@ -8,4 +8,5 @@ img{
 main .cards{
 	display:flex;
 	flex-wrap:wrap;
+	align-items:flex-end
 }
